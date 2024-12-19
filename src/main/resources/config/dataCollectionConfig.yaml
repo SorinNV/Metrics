@@ -1,0 +1,4 @@
+---
+#data Collection config
+isReadFromMockTable: true
+readingDataDelayInMS: 10
